@@ -1,0 +1,4 @@
+__pycache__
+fast_api_env
+.DS_Store
+blog.db
